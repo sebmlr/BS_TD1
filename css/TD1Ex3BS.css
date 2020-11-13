@@ -1,0 +1,24 @@
+section
+{
+    background-color: #17a2b8;
+}
+
+article
+{
+    background-color: #8fd19e;
+}
+
+article:nth-child(2n+1)
+{
+    background-color: #7abaff;
+}
+
+aside
+{
+    background-color: #ed969e;
+}
+
+header,footer
+{
+    background-color: #ffdf7e;
+}
