@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2253e7d4-1026-4083-a3a6-f4622f439f88" name="Default Changelist" comment="TD1 BS">
-      <change afterPath="$PROJECT_DIR$/TD1Ex3BS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/TD1Ex3BS.css" afterDir="false" />
+    <list default="true" id="2253e7d4-1026-4083-a3a6-f4622f439f88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD1Ex3BS.html" beforeDir="false" afterPath="$PROJECT_DIR$/TD1Ex3BS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,22 +55,38 @@
       <updated>1605258223137</updated>
       <workItem from="1605258225731" duration="6463000" />
       <workItem from="1605268635716" duration="7735000" />
-      <workItem from="1605276618878" duration="4084000" />
+      <workItem from="1605276618878" duration="5419000" />
+      <workItem from="1605686315613" duration="11000" />
+      <workItem from="1605686593397" duration="3000" />
+      <workItem from="1605734011102" duration="190000" />
+      <workItem from="1605773062004" duration="351000" />
     </task>
+    <task id="LOCAL-00001" summary="TD1 BS">
+      <created>1605280830991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605280830991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TD1 BS" />
+    <option name="LAST_COMMIT_MESSAGE" value="TD1 BS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605262708025">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="479" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605262708025" />
-    <state x="649" y="138" key="CommitChangelistDialog2" timestamp="1605279384104">
+    <state x="649" y="138" key="CommitChangelistDialog2" timestamp="1605280830481">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="649" y="138" key="CommitChangelistDialog2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605279384104" />
+    <state x="649" y="138" key="CommitChangelistDialog2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605280830481" />
     <state x="805" y="302" key="FileChooserDialogImpl" timestamp="1605279338674">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -88,6 +103,10 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="533" y="206" key="SettingsEditor/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605262700383" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605280833300">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605280833300" />
     <state x="681" y="261" key="run.anything.popup" timestamp="1605262712798">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
